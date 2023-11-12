@@ -1,2 +1,2 @@
 # vanillajs-games
-7 games built using vanilla JavaScript, HTML, &amp; CSS. 
+7 games built using vanilla JavaScript &amp; HTML. 
